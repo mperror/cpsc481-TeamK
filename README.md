@@ -4,9 +4,9 @@ This repository is for Team K's group project for the Human-Computer Interaction
 ## Project Members
 * Evan Argenal-Garcia | UI Designer
 * Brett Gattinger | Team Worker
-* Ahmed Hasan | Coordinator 
+* Ahmed Hasan | Architect 
 * Mohit Parmar | Technical Writer
-* Malik Mohsin Raza | Architect 
+* Malik Mohsin Raza | Coordinator
 
 ## Instructor
 * Lorans Alabood 
