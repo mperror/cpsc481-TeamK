@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mperror/cpsc481-TeamK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mperror/cpsc481-TeamK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Project Details:
+## Team Members:
+* **Mohit Parmar**
+  * _Technical Writer_
+* **Ahmed (A) Hasan**
+  * _Architect_ 
+* **Evan Argenal-Garcia**
+  * _UI Designer_ 
+* **Mohsin Muhammad Raza**
+  * _Coordinator_
+* **Brett Gattinger**
+  * _Team Worker_ 
+## Instructor:
+* **Lorans Alabood**
+## Tutorial Section and TA:
+* Tutorial #2 - Philmo Gu
+## Team Goals
+_First and foremost our team goal is to get an A+ on this project. But more than that, we hope that by the end of the project we will have created an intuitive and effective UI design that we can all be proud of and include in a portfolio for prospective future employers. We also want to become more familiar with various prototyping tools, learn new skills which we can take beyond the course and obtain a stronger knowledge of user-centered design concepts and practises.
