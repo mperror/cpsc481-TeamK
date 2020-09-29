@@ -9,7 +9,7 @@
 * **Mohsin Muhammad Raza**
   * _Coordinator_
 * **Brett Gattinger**
-  * _Team Worker_ 
+  * _Team Worker_
 ## Instructor:
 * **Lorans Alabood**
 ## Tutorial Section and TA:
