@@ -7,7 +7,7 @@
   * _Architect_ 
 * **Evan Argenal-Garcia**
   * _UI Designer_ 
-* **Mohsin Muhammad Raza**
+* **Malik Mohsin Raza*
   * _Coordinator_
 * **Brett Gattinger**
   * _Team Worker_
