@@ -1,0 +1,149 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    z-index: 1;
+    position: fixed;
+    background: #22242A;
+    padding: 20px;
+    width: calc(100% - 0%);
+    top: 0;
+    height: 30px;
+}
+
+.HeaderTitle h3 {
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.HeaderTitle span {
+    color: #19B3D3;
+}
+
+.github_btn {
+    padding: 5px;
+    background: #19B3D3;
+    text-decoration: none;
+    float: right;
+    margin-top: -30px;
+    margin-right: 40px;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    transition: 0.5s;
+    transition-property: background;
+}
+
+.github_btn:hover {
+    background: #0B87A6;
+}
+
+.sidebar {
+    z-index: 1;
+    top: 0;
+    background: #22242A;
+    margin-top: 70px;
+    padding-top: 30px;
+    position: fixed;
+    left: 0;
+    width: 250px;
+    height: calc(100% - 9%);
+    transition: 0.5s;
+    transition-property: left;
+    overflow-y: auto;
+}
+
+/*Sub menu*/
+.sidebar .menu ul{
+    color: yellow;
+    font-size: 10px;
+    margin-left: 0;
+    padding-left: 0;
+    display: none;
+}
+
+/*Hyperlinks in sub-menu*/
+.sidebar .menu li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+/*Hyperlinks in sub-menu*/
+.sidebar .menu li a:hover {
+    color: yellow;
+}
+
+/*Main menu*/
+.sidebar .menu li {
+    list-style: none;
+    line-height: 40px;
+    padding-left: 20px;
+    transition: 0.5s;
+    transition-property: background;
+}
+
+/*Main Menu items*/
+.sidebar .menu li label {
+    color: #fff;
+    display: block;
+    width: 100%;
+    line-height: 70px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.sidebar .menu li label:hover {
+    color: #0B87A6;
+}
+
+.content {
+    margin-top: 10px;
+    padding: 80px;
+    margin-left: 200px;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    transition: 0.5s;
+}
+
+.content .card p {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    opacity: 0.8;
+}
+
+.menu .Stage1Show.show {
+    display: block;
+}
+
+.menu .Stage2Show.show {
+    display: block;
+}
+
+.menu .TeamMembersShow.show {
+    display: block;
+}
+
+/*Table IDEO Cards*/
+.IdeoCardsTable {
+    text-align: center;
+    width:600px;
+}
+
+#firstItem {
+    color: #0B87A6;
+    cursor: auto;
+}
