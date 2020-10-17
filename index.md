@@ -1,7 +1,11 @@
 # Project Details:
 
 ## Current Stage of Progress 
-* **_Stage 2_**
+<details>
+  <summary> Stage 2 </summary>
+  <br>
+  Add stage 2 stuff here...
+</details>
 
 ## Team Members:
 * **Mohit Parmar**
