@@ -4,7 +4,8 @@
 <details>
   <summary> Stage 2 </summary>
   <br>
-  Add stage 2 stuff here...
+  The goal of this stage was to choose and describe our project idea, and focus on employing methods for understanding our potential users.
+  The full report can be found [here](https://github.com/mperror/cpsc481-TeamK/blob/stage_two/Stage%20Two.pdf).
 </details>
 
 ## Team Members:
