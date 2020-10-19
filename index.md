@@ -5,7 +5,7 @@
   <summary> Stage 2 </summary>
   <br>
   The goal of this stage was to choose and describe our project idea, and focus on employing methods for understanding our potential users.
-  The full report can be found [here](https://github.com/mperror/cpsc481-TeamK/blob/stage_two/Stage%20Two.pdf).
+  The full report can be found at: https://mperror.github.io/cpsc481-TeamK/https://google.ca
 </details>
 
 ## Team Members:
