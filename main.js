@@ -20,4 +20,8 @@ $(document).ready(function() {
 			$(".content").show();
 		}
 	});
+	
+	$(".TeamMembers").click(function () {
+		$(".menu .TeamMembersShow").toggleClass("show");
+	});
 });
