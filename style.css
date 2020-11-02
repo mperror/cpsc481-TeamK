@@ -135,6 +135,11 @@ header {
     opacity: 0.8;
 }
 
+.menu .TeamMembersShow.show {
+    display: block;
+}
+
+
 /*Table IDEO Cards*/
 .IdeoCardsTable {
     text-align: center;
