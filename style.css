@@ -142,6 +142,7 @@ header {
 #stage1 a {
 	background-color: #000099;
 	box-shadow: 0 5px 0 #000066;
+	color: #fff;
 	padding: 10px 10px 10px 10px;
 	text-decoration: none;
 	text-transform: uppercase;
