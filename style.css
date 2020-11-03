@@ -119,11 +119,11 @@ header {
 
 #stage1 {
 	margin-top: 10px;
-    padding: 80px;
-    margin-left: 200px;
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
+    	padding: 80px;
+    	margin-left: 200px;
+    	background-position: center;
+    	background-size: cover;
+    	height: 100vh;
 	transition: 0.5s;
 }
 
