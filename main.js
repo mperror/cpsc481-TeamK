@@ -1,9 +1,21 @@
 
+
 $(document).ready(function() {
 	
+	//initial hiding, only the home div should be shown initially
 	if ( $("#stage1").is(":visible") ) { $("#stage1").hide() }
 	
-	$(".Stage1").click(function() {
+	$("#Home").click(function() {
+		if ( $("#home").is(":visible") ) {
+			//do nothing, already showing home div
+		} else {
+			//hide all other content divs, show home div
+			$(".content:not(#home)").hide();
+			$("#home").show();
+		}
+	});
+	
+	$("#Stage1").click(function() {
 		if ( $("#home").is(":visible") ) {
 			$("#home").hide();
 			$("#stage1").show();
@@ -21,7 +33,7 @@ $(document).ready(function() {
 		}
 	});
 	
-	$(".TeamMembers").click(function () {
+	$("#TeamMembers").click(function () {
 		$(".menu .TeamMembersShow").toggleClass("show");
 	});
 });
