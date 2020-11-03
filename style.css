@@ -127,6 +127,35 @@ header {
 	transition: 0.5s;
 }
 
+#stage1 h3 {
+}
+
+#stage1 p {
+	color: black;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.5625; 
+	margin-bottom: 15px;
+}
+
+#stage1 a {
+	background-color: #000099;
+	box-shadow: 0 5px 0 #000066;
+	color: #fff;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#stage1 a:hover {
+	background-color: #0033cc;
+}
+
+#stage1 a:active {
+	background-color: #000066;
+}
+
 .content .card p {
     background: #fff;
     padding: 15px;
@@ -138,7 +167,6 @@ header {
 .menu .TeamMembersShow.show {
     display: block;
 }
-
 
 /*Table IDEO Cards*/
 .IdeoCardsTable {
