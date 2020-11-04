@@ -117,7 +117,7 @@ header {
 	transition: 0.5s;
 }
 
-/*Stage 1 Content page stuff*/
+/*STAGE 1 CONTETN STYLING*/
 #stage1 {
 	margin-top: 10px;
     padding: 80px;
@@ -136,11 +136,10 @@ header {
 }
 #stage1 h3 {
 	font-size: 40px;
-	margin-left: 20px;
+	margin-left: 40px;
 }
 #stage1 h4 {
-	margin-bottom: 1px;
-	margin-left: 40px;
+	margin-left: 60px;
 }
 
 #stage1 p {
@@ -155,8 +154,8 @@ header {
 }
 
 #stage1 a {
-	background-color: #000099;
-	box-shadow: 0 5px 0 #000066;
+	background-color: #22242A;
+	box-shadow: 0 5px 0 #19B3D3;
 	color: #fff;
 	padding: 10px 10px 10px 10px;
 	text-decoration: none;
@@ -164,7 +163,7 @@ header {
 }
 
 #stage1 a:hover {
-	background-color: #0033cc;
+	background-color: #19B3D3;
 }
 
 #stage1 a:active {
@@ -182,9 +181,70 @@ header {
 	width: 50%;
 }
 
-#stage1 .prettyContainer {
+.prettyContainer {
 	border: 3px solid #19B3D3;
 }
+
+/*STAGE 2 CONTENT STYLING*/
+#stage2 h1 {
+	font-size: 60px;
+}
+
+#stage2 h1 {
+	font-size: 60px;
+}
+#stage2 h2 {
+	font-size: 50px;
+}
+#stage2 h3 {
+	font-size: 40px;
+	margin-left: 20px;
+}
+#stage2 h4 {
+	margin-bottom: 1px;
+	margin-left: 40px;
+}
+
+#stage2 p {
+	color: black;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.5625; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
+}
+
+#stage2 a {
+	background-color: #22242A;
+	box-shadow: 0 5px 0 #19B3D3;
+	color: #fff;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#stage2 a:hover {
+	background-color: #19B3D3;
+}
+
+#stage2 a:active {
+	background-color: #000066;
+}
+
+#stage2 table {
+	background-color:  #5a5f72;
+}
+
+#stage2 table, th, td {
+	border: 3px solid black;
+}
+
+#stage2 th, td {
+	padding: 10px;
+}
+
 
 .clear {
 	clear:both;
@@ -194,7 +254,7 @@ header {
 .content .card p {
     background: #fff;
     padding: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-size: 18px;
     opacity: 0.8;
 }
