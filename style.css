@@ -117,17 +117,30 @@ header {
 	transition: 0.5s;
 }
 
+/*Stage 1 Content page stuff*/
 #stage1 {
 	margin-top: 10px;
-    	padding: 80px;
-    	margin-left: 200px;
-    	background-position: center;
-    	background-size: cover;
-    	height: 100vh;
+    padding: 80px;
+    margin-left: 200px;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
 	transition: 0.5s;
 }
 
+#stage1 h1 {
+	font-size: 60px;
+}
+#stage1 h2 {
+	font-size: 50px;
+}
 #stage1 h3 {
+	font-size: 40px;
+	margin-left: 20px;
+}
+#stage1 h4 {
+	margin-bottom: 1px;
+	margin-left: 40px;
 }
 
 #stage1 p {
@@ -136,7 +149,9 @@ header {
 	font-size: 16px;
 	font-weight: 300;
 	line-height: 1.5625; 
-	margin-bottom: 15px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
 }
 
 #stage1 a {
@@ -154,6 +169,26 @@ header {
 
 #stage1 a:active {
 	background-color: #000066;
+}
+
+#stage1 .floatBox {
+	overflow:hidden; 
+	padding: 20px;
+	margin: 0 auto;
+}
+
+#stage1 .floatText {
+    float: left;
+	width: 50%;
+}
+
+#stage1 .prettyContainer {
+	border: 3px solid #19B3D3;
+}
+
+.clear {
+	clear:both;
+	line-height:0;
 }
 
 .content .card p {
