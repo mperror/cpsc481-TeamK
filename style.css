@@ -181,15 +181,15 @@ header {
 	width: 50%;
 }
 
+#stage1 .floatText h4 {
+	margin-bottom: 5px;
+}
+
 .prettyContainer {
 	border: 3px solid #19B3D3;
 }
 
 /*STAGE 2 CONTENT STYLING*/
-#stage2 h1 {
-	font-size: 60px;
-}
-
 #stage2 h1 {
 	font-size: 60px;
 }
@@ -199,9 +199,10 @@ header {
 #stage2 h3 {
 	font-size: 40px;
 	margin-left: 20px;
+	margin-bottom: 5px;
 }
 #stage2 h4 {
-	margin-bottom: 1px;
+	margin-bottom: 5px;
 	margin-left: 40px;
 }
 
@@ -243,6 +244,65 @@ header {
 
 #stage2 th, td {
 	padding: 10px;
+}
+
+
+/*STAGE 3 CONTENT STYLING*/
+#stage3 h1 {
+	font-size: 60px;
+}
+#stage3 h2 {
+	font-size: 50px;
+}
+#stage3 h3 {
+	font-size: 40px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+#stage3 h4 {
+	margin-bottom: 5px;
+	margin-left: 40px;
+}
+
+#stage3 p {
+	color: black;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.5625; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
+}
+
+#stage3 a {
+	background-color: #22242A;
+	box-shadow: 0 5px 0 #19B3D3;
+	color: #fff;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#stage3 a:hover {
+	background-color: #19B3D3;
+}
+
+#stage3 a:active {
+	background-color: #000066;
+}
+
+#stage3 table {
+	background-color:  #5a5f72;
+}
+
+#stage3 table tr #vt {
+	background: #107589;
+	color: #fff;
+}
+
+#stage3 table tr #ht {
+	background: #19b3d3;
 }
 
 
