@@ -2,7 +2,7 @@
 This repository is for Team K's group project for the Human-Computer Interactions course at the University of Calgary.
 
 ## Current Stage of Progress
-* ___Stage 3___
+* ___Stage 2___
 
 ## Project Members
 * Evan Argenal-Garcia | UI Designer
