@@ -1,10 +1,10 @@
 
-
 $(document).ready(function() {
 	
 	//initial hiding, only the home div should be shown initially
 	if ( $("#stage1").is(":visible") ) { $("#stage1").hide() }
 	if ( $("#stage2").is(":visible") ) { $("#stage2").hide() }
+	if ( $("#stage3").is(":visible") ) { $("#stage3").hide() }
 	
 	$("#Home").click(function() {
 		if ( $("#home").is(":visible") ) {
@@ -33,6 +33,16 @@ $(document).ready(function() {
 			//hide all other contetn divs, show stage2 div
 			$(".content:not(#stage2)").hide();
 			$("#stage2").show();
+		}
+	});
+	
+	$("#Stage3").click(function() {
+		if ( $("#stage3").is(":visible") ) {
+			//do nothing, already showing stage3 div
+		} else {
+			//hide all other content divs, show stage3 div
+			$(".content:not(#stage3)").hide();
+			$("#stage3").show();
 		}
 	});
 	
