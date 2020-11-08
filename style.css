@@ -130,6 +130,7 @@ header {
 
 #stage1 h1 {
 	font-size: 60px;
+	margin-bottom: 5px;
 }
 #stage1 h2 {
 	font-size: 50px;
@@ -192,6 +193,7 @@ header {
 /*STAGE 2 CONTENT STYLING*/
 #stage2 h1 {
 	font-size: 60px;
+	margin-bottom: 5px;
 }
 #stage2 h2 {
 	font-size: 50px;
@@ -250,6 +252,7 @@ header {
 /*STAGE 3 CONTENT STYLING*/
 #stage3 h1 {
 	font-size: 60px;
+	margin-bottom: 5px;
 }
 #stage3 h2 {
 	font-size: 50px;
@@ -262,6 +265,9 @@ header {
 #stage3 h4 {
 	margin-bottom: 5px;
 	margin-left: 40px;
+}
+#stage3 h5 {
+	margin-top: 5px;
 }
 
 #stage3 p {
