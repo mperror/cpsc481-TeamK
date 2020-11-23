@@ -1,7 +1,7 @@
 # CPSC 481 - Fall 2020 - Team K
 This repository is for Team K's group project for the Human-Computer Interactions course at the University of Calgary.
 
-## Current Stage of Progress
+## Stage of Progress
 * ___Stage 3___
 * Presentation Video: https://drive.google.com/file/d/1wP_oCrIVVHneNXr-jw6Ozp959XSeofGQ/view?usp=sharing
 
