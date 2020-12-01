@@ -6,6 +6,7 @@ $(document).ready(function() {
 	if ( $("#stage2").is(":visible") ) { $("#stage2").hide() }
 	if ( $("#stage3").is(":visible") ) { $("#stage3").hide() }
 	if ( $("#stage4").is(":visible") ) { $("#stage4").hide() }
+	if ( $("#stage5").is(":visible") ) { $("#stage5").hide() }
 	
 	$("#Home").click(function() {
 		if ( $("#home").is(":visible") ) {
@@ -54,6 +55,16 @@ $(document).ready(function() {
 			//hide all other content divs, show stage4 div
 			$(".content:not(#stage4)").hide();
 			$("#stage4").show();
+		}
+	});
+	
+	$("#Stage5").click(function() {
+		if ( $("#stage5").is(":visible") ) {
+			//do nothing, already showing stage4 div
+		} else {
+			//hide all other content divs, show stage4 div
+			$(".content:not(#stage5)").hide();
+			$("#stage5").show();
 		}
 	});
 	
