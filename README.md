@@ -2,8 +2,8 @@
 This repository is for Team K's group project for the Human-Computer Interactions course at the University of Calgary.
 
 ## Current Stage of Progress
-* ___Stage 4___
-* Presentation Video: https://drive.google.com/file/d/1dMPBwbuHnrkyU7gE5AkqzSXZ70Ow4mwm/view?usp=sharing
+* ___Stage 5 - All stages complete___
+* Final Demo Video: https://drive.google.com/file/d/1nVz4qTwq_TJ1c9AUcyvaxD8Fc-lw_G48/view?usp=sharing
 
 ## Project Members
 * Evan Argenal-Garcia | UI Designer
