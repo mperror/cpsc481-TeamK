@@ -117,6 +117,8 @@ header {
 	transition: 0.5s;
 }
 
+
+
 /*STAGE 1 CONTETN STYLING*/
 #stage1 {
 	margin-top: 10px;
@@ -190,6 +192,8 @@ header {
 	border: 3px solid #19B3D3;
 }
 
+
+
 /*STAGE 2 CONTENT STYLING*/
 #stage2 h1 {
 	font-size: 60px;
@@ -247,6 +251,7 @@ header {
 #stage2 th, td {
 	padding: 10px;
 }
+
 
 
 /*STAGE 3 CONTENT STYLING*/
@@ -312,7 +317,8 @@ header {
 }
 
 
-/*STAGE 3 CONTENT STYLING*/
+
+/*STAGE 4 CONTENT STYLING*/
 #stage4 h1 {
 	font-size: 60px;
 	margin-bottom: 5px;
@@ -374,6 +380,82 @@ header {
 	background: #19b3d3;
 }
 
+.content .card .prettyContainer #stage4HeuristicListElements {
+	color: black;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.5625; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
+	opacity: 0.8;
+}
+
+
+
+/*STAGE 5 CONTENT STYLING*/
+#stage5 h1 {
+	font-size: 60px;
+	margin-bottom: 5px;
+}
+#stage5 h2 {
+	font-size: 50px;
+}
+#stage5 h3 {
+	font-size: 40px;
+	margin-left: 20px;
+	margin-bottom: 5px;
+}
+#stage5 h4 {
+	margin-bottom: 5px;
+	margin-left: 40px;
+}
+#stage5 h5 {
+	margin-top: 5px;
+}
+
+#stage5 p {
+	color: black;
+	font-family: "Helvetica Neue",Arial,sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 1.5625; 
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
+}
+
+#stage5 a {
+	background-color: #22242A;
+	box-shadow: 0 5px 0 #19B3D3;
+	color: #fff;
+	padding: 10px 10px 10px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#stage5 a:hover {
+	background-color: #19B3D3;
+}
+
+#stage5 a:active {
+	background-color: #000066;
+}
+
+#stage5 table {
+	background-color:  #5a5f72;
+}
+
+#stage5 table tr #vt {
+	background: #107589;
+	color: #fff;
+}
+
+#stage5 table tr #ht {
+	background: #19b3d3;
+}
+
 
 .clear {
 	clear:both;
@@ -386,6 +468,12 @@ header {
     margin-bottom: 5px;
     font-size: 18px;
     opacity: 0.8;
+}
+
+.content .card #Stage5IntroParagraph {
+	margin-left: -15px;
+	margin-top: -40px;
+	margin-bottom: 10px;
 }
 
 .menu .TeamMembersShow.show {
